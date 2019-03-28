@@ -1,0 +1,23 @@
+name: SymfonyDay
+utm_source: symfonyday
+og_image: http://2019.symfonyday.it/img/confs/sfday/header_sfday.png
+og_description: A conference solely dedicated to Symfony framework. 8+ sessions presented by international speakers.
+slug: symfonyday
+url: https://2019.symfonyday.it
+where_when: Verona, 17th-18th October 2019
+year: 2019
+since: 2012
+talks_available: false
+schedule_available: false
+workshop_available: false
+
+iubenda:
+  cookiePolicyId: 29098106
+  siteId: 1078163
+  lang: en
+  enableRemoteConsent: true
+  localConsentDomain: symfonyday.it
+  rebuildIframe: true
+
+google:
+  tag_manager_id: GTM-P5GXBFP

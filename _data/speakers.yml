@@ -1,0 +1,12 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+call_for_paper_url: https://forms.gle/VAYK14Z1GWfrGYZq6
+call_for_paper: true
+#list:
+#  -
+#    id: alessandro-lai
+#    description:
+#    image: alessandro-lai.jpg
+#    first_name: Alessandro
+#    last_name: Lai
+#    twitter: AlessandroLai

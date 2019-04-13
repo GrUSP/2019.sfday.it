@@ -63,6 +63,12 @@ gold:
     - 3 tickets with 15% discount
   max: 8
   list:
+    -
+      url: http://www.flowing.it?utm_source=symfonyday
+      image: flowing.svg
+    -
+      url: https://www.workwave.com/?utm_source=symfonyday
+      image: workwave.svg
 
 silver:
   price: € 750
@@ -75,6 +81,12 @@ silver:
     - 3 tickets with 10% discount
   max: 16
   list:
+    -
+      url: https://www.facile.it/?utm_source=symfonyday
+      image: facile.svg
+    -
+      url: https://labs.madisoft.it/symfony-developer/?utm_source=symfonyday
+      image: madisoft.svg
 
 bronze:
   price: € 500

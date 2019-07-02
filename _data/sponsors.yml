@@ -50,6 +50,9 @@ platinum:
     - 5 tickets with 15% discount
   max: 4
   list:
+    -
+      url: http://www.flowing.it?utm_source=symfonyday
+      image: flowing.svg  
 
 gold:
   price: € 1,500
@@ -63,9 +66,6 @@ gold:
     - 3 tickets with 15% discount
   max: 8
   list:
-    -
-      url: http://www.flowing.it?utm_source=symfonyday
-      image: flowing.svg
     -
       url: https://www.workwave.com/?utm_source=symfonyday
       image: workwave.svg

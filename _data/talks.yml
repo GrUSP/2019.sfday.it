@@ -1,5 +1,68 @@
-#-
-#  speaker_id:
-#    -
-#  title:
-#  extract: >
+-
+  speaker_id: alessandro-lai
+  title: "Symfony 💚 Kubernetes: dynamic feature-review environments"
+  extract: >
+    Docker has been a part of our development environments for long as of now. But its usage in production had not
+    followed the same adoption curve, and it's instead rising only in the last years, mainly due to Kubernetes.
+    But Kubernetes is not only a simple tool to port your containers into production, it goes beyond that! It lets
+    (and forces) us developer embrace the twelve-factor approach, creating real cloud-native applications, where
+    everything is parametrized and properly isolated.
+    In this talk we'll see how a Symfony application can be easily packaged, parametrized and deployed using Docker,
+    Kubernetes and Helm, up to the point of having one-click deployments of per-branch environments, a tool that makes
+    review/QA of a feature really fast & easy.
+-
+  speaker_id: alessandro-minoccheri
+  title: Symfony + AWS Lambda
+  extract: >
+    Serverless services, like AWS Lambda, have been proven useful to solve a wide range of problems, and its use is
+    growing rapidly. Recently, the possibility to use the PHP runtime in Lambda was added, so why not trying to use our
+    favourite framework? How can we make the most from a serverless approach? What are pros and cons? In this session
+    we will analyze the necessary steps to set up a Symfony4 project in Lambda and deploy it.
+-
+  speaker_id: andre-romcke
+  title: Head first into Symfony Cache, Redis, & Redis Cluster
+  extract: >
+    Symfony Cache has been around for a few releases. But what is happening behind the scenes? Talk focuses on how is it
+    working, down to detail level on Redis for things like datatypes, Redis Cluster sharding logic, how it differs from
+    Memcached and more.
+-
+  speaker_id: antonio-peric-mazar
+  title: Using API platform to build ticketing system (translations, time zones, ...)
+  extract: >
+    Why is API platform a way to go and the new standard in developing apps? In this talk, I want to show you some real
+    examples that we built using API platform including a ticketing system for the world’s biggest bicycle marathon and
+    a social network that is a mixture of both Tinder and Facebook Messenger.
+    We had to tackle problems regarding the implementation of tax laws in 18 different countries, dozens of translations
+    (including Arabic), multiple role systems, different timezones, overall struggle with a complicated logic with an
+    infinite number of branches, and more. Are you interested? Sign up for the talk.
+-
+  speaker_id: asmir-mustafic
+  title: Great APIs with Symfony and Open Source Software
+  extract: >
+    Nowadays offering a REST API has become a must for most of the businesses.
+    Offering a good documentation, validating properly the requests, having descriptive error messages, supporting
+    multiple versions, retrieving data, persisting data, handling rate limitations and many other things can be not an
+    easy task.
+    This talk is a walk-through on how to build a rich, RESTful (Level 3 including HATEOAS) API for web applications
+    using Symfony-related components and bundles.
+    The result will be a standard, documented, validated and easy to maintain API, that users will enjoy and developers
+    love to build.
+-
+  speaker_id: davide-borsatto
+  title: Master-slave and sharding with Doctrine, together at last
+  extract: >
+    Even though you hear all these talks about scaling and infinite possibilities, the examples that truly match your
+    use case are few and far between. So when we set out to make Nuvola (our greenfield Symfony application) use both
+    sharding and a master slave approach at the same time, we faced a variety of issues and none of the solutions out
+    there were a perfect match. We dealt with having Doctrine handle both features at the same time, possible delays in
+    propagation from master to slave, and a whole class of bugs we may or may not have introduced with this change. Is
+    this issue surfacing just now because of this change? Was it there all along and we just never noticed? This is not
+    a story about how things look in a perfect world, this is about what we had, what we set out to do, and how we made
+    it work.
+-
+  speaker_id: denis-brumann
+  title: Creating imports like a pro with Symfony
+  extract: >
+    Having to import a bunch of data is a common task and doing it efficiently is a difficult thing to do. In this talk
+    I will go through an example and show you common limiting factors, how to identify issues and how to make bulk
+    imports memory efficient and fast.

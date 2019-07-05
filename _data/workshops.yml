@@ -2,16 +2,16 @@ list:
   -
     slug: cqrs-event-sourcing-per-sviluppatori-symfony
     title: CQRS/Event Sourcing per sviluppatori Symfony
-    when: 18 Ottobre 2018, Verona
+    when: 17 Ottobre 2019, Verona
     timetable: Registrazione 9:00 - 9:30 / Workshop 9:30 - 18:00 (con pause pranzo e caffè)
     where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
     map: https://goo.gl/maps/iqQ6n6bNAf72
-    ticket: https://www.eventbrite.it/e/symfonyday-2018-tickets-44688021074
+    ticket: https://2019.symfonyday.it/tickets.html
     teacher:
-      name: Riccardo Franconi
-      picture: riccardo.jpg
-      bio: Software engineer at ideato
-      link: http://twitter.com/ricfrank
+      name: Marco Radossi
+      picture: 
+      bio: Software developer @ Flowing
+      link: 
     intro: |
       Il corso ha l’obiettivo di far conoscere le basi di CQRS/ES partendo da un approccio teorico fino ad arrivare all’implementazione di un caso d’uso. Alla fine del corso avrete solide basi sull’argomento e del codice funzionante da utilizzare come punto di partenza per i vostri progetti.
     program: |
@@ -41,7 +41,7 @@ list:
       - Symfony Base
       - Unit test (opzionale)
     useful_info: |
-      La durata del corso è di una giornata e **si terrà il 18 Ottobre** (il giorno prima del SymfonyDay) con i seguenti orari:
+      La durata del corso è di una giornata e **si terrà il 17 Ottobre** (il giorno prima del symfonyday) con i seguenti orari:
 
         - Registrazione 9:00 - 9:30
         - Workshop 9:30 - 18:00 (con pause pranzo e caffè)
@@ -51,15 +51,15 @@ list:
   -
     slug: sviluppare-con-symfony-4-workshop
     title: Sviluppare con Symfony 4
-    when: 18 Ottobre 2018, Verona
+    when: 17 Ottobre 2018, Verona
     timetable: Registrazione 9:00 - 9:30 / Workshop 9:30 - 18:00 (con pause pranzo e caffè)
     where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
     map: https://goo.gl/maps/iqQ6n6bNAf72
-    ticket: https://www.eventbrite.it/e/symfonyday-2018-tickets-44688021074
+    ticket: https://2019.symfonyday.it/tickets.html
     teacher:
       name: Michele Orselli
       picture: michele.jpg
-      bio: software engineer at ideato
+      bio: software engineer @ Flowing
       link: http://twitter.com/_orso_
     intro: |
       Il corso ha l’obiettivo di far conoscere le principali novità di Symfony 4.x partendo da un approccio teorico fino ad arrivare all’implementazione di un caso d’uso. Alla fine del corso avrete solide basi sull’argomento e del codice funzionante da utilizzare come punto di partenza per i vostri progetti.
@@ -93,7 +93,7 @@ list:
       - Symfony Base
       - Unit test (opzionale)
     useful_info: |
-      La durata del corso è di una giornata e **si terrà il 18 Ottobre** (il giorno prima del SymfonyDay) con i seguenti orari:
+      La durata del corso è di una giornata e **si terrà il 17 Ottobre** (il giorno prima del symfonyday) con i seguenti orari:
 
         - Registrazione 9:00 - 9:30
         - Workshop 9:30 - 18:00 (con pause pranzo e caffè)

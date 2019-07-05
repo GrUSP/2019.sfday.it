@@ -2,11 +2,53 @@
 # img/conf-name/speaker/file.jpg
 call_for_paper_url: https://forms.gle/VAYK14Z1GWfrGYZq6
 call_for_paper: false
-#list:
-#  -
-#    id: alessandro-lai
-#    description:
-#    image: alessandro-lai.jpg
-#    first_name: Alessandro
-#    last_name: Lai
-#    twitter: AlessandroLai
+list:
+  -
+    id: alessandro-lai
+    description: Lead project developer @Facile.it, PHP-FIG secretary, PUG Milano coordinator, computer science passionate, retired netgaming nerd.
+    image: alessandro-lai.jpg
+    first_name: Alessandro
+    last_name: Lai
+    twitter: AlessandroLai
+  -
+    id: alessandro-minoccheri
+    description: Software Developer, father, geek, PHP and Node.js expert. Open-source enthusiast, active contributor on GitHub and StackOverflow.
+    image: alessandro-minoccheri.jpg
+    first_name: Alessandro
+    last_name: Minoccheri
+    twitter: minompi
+  -
+    id: andre-romcke
+    description: VP Tech Service & Support @ eZ, long time interest in PHP, Symfony, Caching, Containers and Skiing.
+    image: andre-romcke.jpg
+    first_name: André
+    last_name: Rømcke
+    twitter: andrerom
+  -
+    id: antonio-peric-mazar
+    description: CEO at Locastic. Helping clients grow their online business and build amazing mobile and web apps.
+    image: antonio-peric-mazar.jpg
+    first_name: Antonio
+    last_name: Peric-Mazar
+    twitter: antonioperic
+  -
+    id: asmir-mustafic
+    description: Software Engineer, In love with Open Source, PHP, Symfony and Docker.
+    image: asmir-mustafic.jpg
+    first_name: Asmir
+    last_name: Mustafic
+    twitter: goetas_asmir
+  -
+    id: davide-borsatto
+    description: Symfony developer since 2007, cares about clean code probably more than he should.
+    image: davide-borsatto.jpg
+    first_name: Davide
+    last_name: Borsatto
+    twitter: davide_b88
+  -
+    id: denis-brumann
+    description: Denis started his PHP career back in 2007. Since 2016 he works at SensioLabs in Germany where he is focusing on migrating legacy projects of all kinds to a modern architecture using Symfony most of the time.
+    image: denis-brumann.jpg
+    first_name: Denis
+    last_name: Brumann
+    twitter: dbrumann

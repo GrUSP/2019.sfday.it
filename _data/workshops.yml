@@ -9,7 +9,7 @@ list:
     ticket: https://2019.symfonyday.it/tickets.html
     teacher:
       name: Marco Radossi
-      picture: 
+      picture: marco.jpg
       bio: Software developer @ Flowing
       link: 
     intro: |
@@ -59,7 +59,7 @@ list:
     teacher:
       name: Michele Orselli
       picture: michele.jpg
-      bio: software engineer @ Flowing
+      bio: Software engineer @ Flowing
       link: http://twitter.com/_orso_
     intro: |
       Il corso ha l’obiettivo di far conoscere le principali novità di Symfony 4.x partendo da un approccio teorico fino ad arrivare all’implementazione di un caso d’uso. Alla fine del corso avrete solide basi sull’argomento e del codice funzionante da utilizzare come punto di partenza per i vostri progetti.

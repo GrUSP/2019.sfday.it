@@ -20,7 +20,7 @@
     we will analyze the necessary steps to set up a Symfony4 project in Lambda and deploy it.
 -
   speaker_id: andre-romcke
-  title: Head first into Symfony Cache, Redis, & Redis Cluster
+  title: Head first into Symfony Cache, Redis & Redis Cluster
   extract: >
     Symfony Cache has been around for a few releases. But what is happening behind the scenes? Talk focuses on how is it
     working, down to detail level on Redis for things like datatypes, Redis Cluster sharding logic, how it differs from

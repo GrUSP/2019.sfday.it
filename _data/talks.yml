@@ -26,7 +26,10 @@
     working, down to detail level on Redis for things like datatypes, Redis Cluster sharding logic, how it differs from
     Memcached and more.
 -
-  speaker_id: antonio-peric-mazar
+  speaker_id:
+    - antonio-peric-mazar
+    - paula-cucuk
+  image: antonio-paula.jpg
   title: Using API platform to build ticketing system (translations, time zones, ...)
   extract: >
     Why is API platform a way to go and the new standard in developing apps? In this talk, I want to show you some real

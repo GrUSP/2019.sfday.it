@@ -62,6 +62,13 @@
             </a>
           {% endif %}
         </li>
+        {% if site.data.conference.scholarship_available %}
+        <li class="menu__item">
+          <a href="{{ site.baseurl }}/scholarships.html" class="menu__button">
+            Scholarships
+          </a>
+        </li>
+        {% endif %}
         {% if site.data.speakers.call_for_paper %}
         <li class="menu__item">
           <a href="{{ site.data.speakers.call_for_paper_url }}" class="menu__button">

@@ -52,6 +52,9 @@
                 <a href="{{ site.baseurl }}/talks.html" class="button button--footer button--left">Talks</a>
               </div>
               {% endif %}
+              <div class="footer__nav-item">
+                <a href="{{ site.baseurl }}/#venue" class="button button--footer button--left">Venue</a>
+              </div>
             </div>
           </div>
           <div class="footer__row-column">
@@ -61,14 +64,16 @@
                 <a href="{{ site.baseurl }}/workshop.html" class="button button--footer button--left">Workshop</a>
               </div>
               {% endif %}
+              {% if site.data.conference.scholarship_available %}
+              <div class="footer__nav-item">
+                <a href="{{ site.baseurl }}/scholarships.html" class="button button--footer button--left">Scholarships</a>
+              </div>
+              {% endif %}
               <div class="footer__nav-item">
                 <a href="{{ site.baseurl }}/coc.html" class="button button--footer button--left">Code of Conduct</a>
               </div>
               <div class="footer__nav-item">
                 <a href="{{ site.baseurl }}/#newsletter" class="button button--footer button--left">Newsletter</a>
-              </div>
-              <div class="footer__nav-item">
-                <a href="{{ site.baseurl }}/#venue" class="button button--footer button--left">Venue</a>
               </div>
             </div>
           </div>

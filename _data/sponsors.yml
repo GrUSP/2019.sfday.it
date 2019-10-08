@@ -96,3 +96,6 @@ bronze:
     - 2 tickets with 10% discount
   max: 32
   list:
+    -
+      url: https://ez.no/?utm_source=symfonyday
+      image: ez.svg

@@ -52,7 +52,10 @@ platinum:
   list:
     -
       url: http://www.flowing.it?utm_source=symfonyday
-      image: flowing.svg  
+      image: flowing.svg 
+    -
+      url: https://www.musement.com/?utm_source=symfonyday
+      image: musement.svg       
 
 gold:
   price: € 1,500
